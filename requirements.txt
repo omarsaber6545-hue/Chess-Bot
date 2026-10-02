@@ -1,0 +1,5 @@
+discord.py>=2.3.0
+chess>=1.11.0
+pymupdf>=1.24.0
+pillow>=10.0.0
+python-dotenv>=1.0.0

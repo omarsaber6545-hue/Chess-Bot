@@ -1,0 +1,20 @@
+# Environment variables (Never push bot tokens to GitHub)
+.env
+
+# SQLite Database
+*.db
+chess_bot.db
+
+# Python cache & virtualenv
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.venv/
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
